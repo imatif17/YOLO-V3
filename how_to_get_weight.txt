@@ -1,0 +1,2 @@
+Download weight from(237 mb file):
+	https://pjreddie.com/darknet/yolo/
